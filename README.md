@@ -1,4 +1,14 @@
-## Hi there 👋
+👋 Hi, I'm Sathyapriya M
+
+Aspiring Data Analyst | AI & Data Science Student
+
+📊 About Me
+🛠️ Skills
+📈 Featured Projects
+🏆 Certifications
+🚀 Currently Learning
+📊 GitHub Statistics
+🔗 Connect With Me
 
 <!--
 **Sathyapriya-07/Sathyapriya-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
